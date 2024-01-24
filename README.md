@@ -3,10 +3,7 @@
 
 <br>
 
-<img src="./src/line.gif" alt="line"/>
-
 <h4>Salam Kenal🗿, Numpang Lewat</h4>
-<br><img src="./src/line.gif" alt="line"/><br>
 
 <h2 align="center"><b>About</b></h2>
 
