@@ -1,5 +1,5 @@
 <!-- Banner -->
-(https://telegra.ph/file/7e8e200fe459c7083076d.jpg)
+!(https://telegra.ph/file/7e8e200fe459c7083076d.jpg)
 
 <br>
 
