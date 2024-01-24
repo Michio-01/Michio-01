@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Michio](https://telegra.ph/file/7e8e200fe459c7083076d.jpg)
+![Michio](https://wallpapermemory.com/uploads/607/charlotte-wallpaper-1080p-165541.jpg)
 
 <br>
 
