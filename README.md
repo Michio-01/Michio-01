@@ -1,14 +1,11 @@
 <!-- Banner -->
-![Michio](https://telegra.ph/file/7e8e200fe459c7083076d.jpg)
+(https://telegra.ph/file/7e8e200fe459c7083076d.jpg)
 
 <br>
 
 <img src="./src/line.gif" alt="line"/>
 
-<h4>What is Bot WhatsApp? </h4>
-
-<p>What'sapp Bot Developed Using Javascript Language, Developed by Our Owner, Michio<p>
-
+<h4>Salam Kenal🗿, Numpang Lewat</h4>
 <br><img src="./src/line.gif" alt="line"/><br>
 
 <h2 align="center"><b>About</b></h2>
@@ -24,7 +21,7 @@
 --Tilty Claret   | --Anisphia | --Eupyhllia | --Elaina
 ------ | ------ | ------ | ------
 ✅ [Live Preview](https://telegra.ph/file/a4432e5d02d749e78a21b.jpg) | ✅ [Live Preview](https://telegra.ph/file/f575673185cd61c06e09f.jpg) | ✅ [Live Preview](https://telegra.ph/file/f1d520cc00dd2b6556671.jpg) | ✅ [Live Preview](https://telegra.ph/file/55121fd48d3a0be98627f.jpg)
-![Loli1](https://wallpapercave.com/wp/wp5111070.jpg) | ![Loli2](https://i.pinimg.com/originals/1f/39/1a/1f391aea4f79fa0ddd06a0b0833b6e2b.png) | ![Loli3](https://wallpaperboat.com/wp-content/uploads/2020/10/30/58815/red-anime-girl-01.jpg)| ![Tailwind Starter Kit](https://wallpapermemory.com/uploads/607/charlotte-wallpaper-1080p-165541.jpg)
+![Loli1](https://telegra.ph/file/a4432e5d02d749e78a21b.jpg) | ![Loli2](https://telegra.ph/file/f575673185cd61c06e09f.jpg) | ![Loli3](https://telegra.ph/file/f1d520cc00dd2b6556671.jpg)| ![Tailwind Starter Kit](https://telegra.ph/file/55121fd48d3a0be98627f.jpg)
 
 <br><img src="./src/line.gif" alt="line"/><br>
 
