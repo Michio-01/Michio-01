@@ -20,7 +20,7 @@
 
 --Tilty Claret   | --Anisphia | --Eupyhllia | --Elaina
 ------ | ------ | ------ | ------
-✅ [Live Preview](https://wa.me/6288221554874). | ✅ [Live Preview](https://telegra.ph/file/f575673185cd61c06e09f.jpg) | ✅ [Live Preview](https://telegra.ph/file/f1d520cc00dd2b6556671.jpg) | ✅ [Live Preview](https://telegra.ph/file/55121fd48d3a0be98627f.jpg)
+✅ [Chat WhatsApp](https://wa.me/6288221554874). | ✅ [Chat WhatsApp](https://telegra.ph/file/f575673185cd61c06e09f.jpg) | ✅ [Chat WhatsApp](https://telegra.ph/file/f1d520cc00dd2b6556671.jpg) | ✅ [Chat WhatsApp](https://telegra.ph/file/55121fd48d3a0be98627f.jpg)
 ![Loli1](https://telegra.ph/file/a4432e5d02d749e78a21b.jpg) | ![Loli2](https://telegra.ph/file/f575673185cd61c06e09f.jpg) | ![Loli3](https://telegra.ph/file/f1d520cc00dd2b6556671.jpg)| ![Tailwind Starter Kit](https://telegra.ph/file/55121fd48d3a0be98627f.jpg)
 
 <br><img src="./src/line.gif" alt="line"/><br>
