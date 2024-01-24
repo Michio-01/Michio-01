@@ -11,7 +11,7 @@
 
 <br><img src="./src/line.gif" alt="line"/><br>
 
-<h2 align="center"><b>Our Projects</b></h2>
+<h2 align="center"><b>Project Friends</b></h2>
 
 <br>
 
@@ -24,14 +24,12 @@
 
 <h2 align="center"><b>Contact Us</b></h2><br>
 <div align="center">
-    <a href="https://github.com/botdev-univ">
+    <a href="https://github.com/Michio-01">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> 
     </a>
     <a href="Michio-01@gmail.com">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </div>
-
-<br><img src="./src/line.gif" alt="line"/><br>
 
 <p align="center"> © 2023 Michio, Team Hunter Loli. </p>
